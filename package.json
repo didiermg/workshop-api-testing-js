@@ -1,0 +1,31 @@
+{
+  "name": "workshop-api-testing",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Api Testing in JavaScript",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "socket.io": "^3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didiermg/workshop-api-testing-js.git"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "didier <damartinez160@gmail.com> (didiermg)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didiermg/workshop-api-testing-js/issues"
+  },
+  "homepage": "https://github.com/didiermg/workshop-api-testing-js#readme"
+}
